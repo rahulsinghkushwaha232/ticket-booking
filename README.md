@@ -1,9 +1,5 @@
 # TicketHub
 
-[![Author](https://img.shields.io/badge/Author-Rahul%20Singh%20Kushwaha-blue?style=for-the-badge&logo=github)](https://github.com/rahulsinghkushwaha232)
-[![GitHub](https://img.shields.io/badge/GitHub-rahulsinghkushwaha232-181717?style=for-the-badge&logo=github)](https://github.com/rahulsinghkushwaha232)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-
 TicketHub is a responsive event ticket booking platform with VIP seating and demand-based and time-based surge pricing.
 
 ## Features
