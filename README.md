@@ -3,7 +3,6 @@
 [![Author](https://img.shields.io/badge/Author-Rahul%20Singh%20Kushwaha-blue?style=for-the-badge&logo=github)](https://github.com/rahulsinghkushwaha232)
 [![GitHub](https://img.shields.io/badge/GitHub-rahulsinghkushwaha232-181717?style=for-the-badge&logo=github)](https://github.com/rahulsinghkushwaha232)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Contributors](https://img.shields.io/badge/Contributor-Rahul%20Singh%20Kushwaha-orange?style=for-the-badge&logo=github)](https://github.com/rahulsinghkushwaha232)
 
 TicketHub is a responsive event ticket booking platform with VIP seating and demand-based and time-based surge pricing.
 
@@ -155,27 +154,23 @@ These event images are from Wikimedia Commons, Unsplash, or Pexels. License link
 | Global Fintech Fest | Man speaking in front of crowd — business conference theme photo, not the actual fest | Miguel Henriques | [Unsplash License](https://unsplash.com/license) | [Unsplash photo page](https://unsplash.com/photos/man-speaking-in-front-of-crowd-RfiBK6Y_upQ) |
 | Tata Mumbai Marathon | Runners during Tata Mumbai Marathon, 2023 at Worli Sea Link | KartikMistry | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [File page](https://commons.wikimedia.org/wiki/File:Runners_during_Tata_Mumbai_Marathon,_2023_at_Worli_Sea_Link.jpg) |
 
-## Author
+## Contributors
 
 <table>
   <tr>
-    <td align="center">
+    <td>
       <a href="https://github.com/rahulsinghkushwaha232">
-        <img src="https://github.com/rahulsinghkushwaha232.png" width="100px;" alt="Rahul Singh Kushwaha"/><br />
-        <sub><b>Rahul Singh Kushwaha</b></sub>
-      </a><br />
-      <a href="https://github.com/rahulsinghkushwaha232">@rahulsinghkushwaha232</a>
+        <img src="https://github.com/rahulsinghkushwaha232.png" width="80px;" alt="Rahul Singh Kushwaha"/>
+      </a>
+    </td>
+    <td>
+      <b>Rahul Singh Kushwaha</b><br/>
+      <span>👤 Contributor</span><br/>
+      <a href="https://github.com/rahulsinghkushwaha232">@rahulsinghkushwaha232</a><br/><br/>
+      🎨 UI/UX &nbsp;|&nbsp; ⚙️ Core Logic &nbsp;|&nbsp; 🚀 Deployment
     </td>
   </tr>
 </table>
-
-> 💡 **Creator & Lead Developer** — Designed and built the full TicketHub platform including UI, routing, seat map logic, surge pricing engine, and deployment configuration.
-
-## Contributors
-
-| Name | GitHub | Role |
-|------|--------|------|
-| Rahul Singh Kushwaha | [@rahulsinghkushwaha232](https://github.com/rahulsinghkushwaha232) | 🎨 UI/UX · ⚙️ Core Logic · 🚀 Deployment |
 
 ---
 
