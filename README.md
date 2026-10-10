@@ -1,5 +1,9 @@
 # TicketHub
 
+[![Author](https://img.shields.io/badge/Author-Rahul%20Singh%20Kushwaha-blue?style=for-the-badge&logo=github)](https://github.com/rahulsinghkushwaha232)
+[![GitHub](https://img.shields.io/badge/GitHub-rahulsinghkushwaha232-181717?style=for-the-badge&logo=github)](https://github.com/rahulsinghkushwaha232)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
 TicketHub is a responsive event ticket booking platform with VIP seating and demand-based and time-based surge pricing.
 
 ## Features
@@ -149,3 +153,49 @@ These event images are from Wikimedia Commons, Unsplash, or Pexels. License link
 | Lakmé Fashion Week | Vibrant fashion show runway with dramatic lighting — fashion theme photo, not Lakmé Fashion Week | Thể Phạm | [Pexels License](https://www.pexels.com/license/) | [Pexels photo page](https://www.pexels.com/photo/vibrant-fashion-show-runway-with-dramatic-lighting-28587831/) |
 | Global Fintech Fest | Man speaking in front of crowd — business conference theme photo, not the actual fest | Miguel Henriques | [Unsplash License](https://unsplash.com/license) | [Unsplash photo page](https://unsplash.com/photos/man-speaking-in-front-of-crowd-RfiBK6Y_upQ) |
 | Tata Mumbai Marathon | Runners during Tata Mumbai Marathon, 2023 at Worli Sea Link | KartikMistry | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [File page](https://commons.wikimedia.org/wiki/File:Runners_during_Tata_Mumbai_Marathon,_2023_at_Worli_Sea_Link.jpg) |
+
+## Author
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/rahulsinghkushwaha232">
+        <img src="https://github.com/rahulsinghkushwaha232.png" width="100px;" alt="Rahul Singh Kushwaha"/><br />
+        <sub><b>Rahul Singh Kushwaha</b></sub>
+      </a><br />
+      <a href="https://github.com/rahulsinghkushwaha232">@rahulsinghkushwaha232</a>
+    </td>
+  </tr>
+</table>
+
+> 💡 **Creator & Lead Developer** — Designed and built the full TicketHub platform including UI, routing, seat map logic, surge pricing engine, and deployment configuration.
+
+## Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/rahulsinghkushwaha232">
+        <img src="https://github.com/rahulsinghkushwaha232.png" width="80px;" alt="Rahul Singh Kushwaha"/><br />
+        <sub><b>Rahul Singh Kushwaha</b></sub>
+      </a><br />
+      🎨 UI/UX &nbsp;|&nbsp; ⚙️ Core Logic &nbsp;|&nbsp; 🚀 Deployment
+    </td>
+  </tr>
+</table>
+
+---
+
+> Want to contribute? Feel free to fork this repository and submit a pull request!
+> 
+> ⭐ **If you found this project helpful, please give it a star!**
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+<div align="center">
+  Made with ❤️ by <a href="https://github.com/rahulsinghkushwaha232"><b>Rahul Singh Kushwaha</b></a>
+</div>
