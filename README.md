@@ -3,6 +3,7 @@
 [![Author](https://img.shields.io/badge/Author-Rahul%20Singh%20Kushwaha-blue?style=for-the-badge&logo=github)](https://github.com/rahulsinghkushwaha232)
 [![GitHub](https://img.shields.io/badge/GitHub-rahulsinghkushwaha232-181717?style=for-the-badge&logo=github)](https://github.com/rahulsinghkushwaha232)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Contributors](https://img.shields.io/badge/Contributor-Rahul%20Singh%20Kushwaha-orange?style=for-the-badge&logo=github)](https://github.com/rahulsinghkushwaha232)
 
 TicketHub is a responsive event ticket booking platform with VIP seating and demand-based and time-based surge pricing.
 
@@ -172,17 +173,9 @@ These event images are from Wikimedia Commons, Unsplash, or Pexels. License link
 
 ## Contributors
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/rahulsinghkushwaha232">
-        <img src="https://github.com/rahulsinghkushwaha232.png" width="80px;" alt="Rahul Singh Kushwaha"/><br />
-        <sub><b>Rahul Singh Kushwaha</b></sub>
-      </a><br />
-      🎨 UI/UX &nbsp;|&nbsp; ⚙️ Core Logic &nbsp;|&nbsp; 🚀 Deployment
-    </td>
-  </tr>
-</table>
+| Name | GitHub | Role |
+|------|--------|------|
+| Rahul Singh Kushwaha | [@rahulsinghkushwaha232](https://github.com/rahulsinghkushwaha232) | 🎨 UI/UX · ⚙️ Core Logic · 🚀 Deployment |
 
 ---
 
